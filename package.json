@@ -1,0 +1,23 @@
+{
+  "name": "js-design-patterns",
+  "version": "1.0.0",
+  "description": "Design patterns Javscript examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run-factory": "node factory_pattern.js"
+  },
+  "keywords": [
+    "design-patterns"
+  ],
+  "author": "Aldrovando Camargo Neves",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.2.0",
+    "@eslint/js": "^9.15.0",
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.31.0",
+    "globals": "^15.12.0"
+  }
+}
