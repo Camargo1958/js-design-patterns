@@ -11,11 +11,11 @@ function Tester(name) {
 }
 
 function EmployeeFactory() {
-    this.create = (type, name) => {
+    this.create = (name,type) => {
         switch(type) {
-            case "Developer":
+            case 1:
                 return new Developer(name)
-            case "Tester":
+            case 2:
                 return new Tester(name)
             default:
                 throw new Error("Invalid type")
@@ -30,12 +30,12 @@ function say() {
 const employeeFactory = new EmployeeFactory()
 const employees = []
 
-employees.push(employeeFactory.create("Developer", "John"))
-employees.push(employeeFactory.create("Tester", "Jane"))
-employees.push(employeeFactory.create("Developer", "Patrick"))
-employees.push(employeeFactory.create("Tester", "John"))
-employees.push(employeeFactory.create("Developer", "Taylor"))
-employees.push(employeeFactory.create("Developer", "Jamie"))
+employees.push(employeeFactory.create("Paul",1))
+employees.push(employeeFactory.create("Jane",2))
+employees.push(employeeFactory.create("Patrick",1))
+employees.push(employeeFactory.create("John",2))
+employees.push(employeeFactory.create("Taylor",1))
+employees.push(employeeFactory.create("Jamie",1))
 
 employees.forEach(employee => {
     employee.say = say
