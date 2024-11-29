@@ -5,9 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "run-factory": "node factory_pattern.js",
     "run-singleton": "node singleton_pattern.js",
-    "run-strategy": "node strategy_pattern.js"
+    "run-strategy": "node strategy_pattern.js",
+    "run-iterator": "node iterator_pattern.js",
+    "run-observer": "node observer_pattern.js"
   },
   "keywords": [
     "design-patterns"
