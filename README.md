@@ -6,6 +6,7 @@ Baseado nos vídeos:
 * Iterator: https://www.youtube.com/watch?v=c85EStPZR8M&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=4
 * Observer: https://www.youtube.com/watch?v=45TeJEmcqk8&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=5
 * Proxy: https://www.youtube.com/watch?v=SFTpSFQNPts&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=6
+* Mediator: https://www.youtube.com/watch?v=ZuhgOu-DGA4&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=7
 
 # Roteiro:
 
@@ -20,4 +21,5 @@ Baseado nos vídeos:
 * run-strategy
 * run-iterator
 * run-observer
-* 
+* run-proxy
+* run-mediator
