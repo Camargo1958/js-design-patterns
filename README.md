@@ -7,6 +7,7 @@ Baseado nos vídeos:
 * Observer: https://www.youtube.com/watch?v=45TeJEmcqk8&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=5
 * Proxy: https://www.youtube.com/watch?v=SFTpSFQNPts&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=6
 * Mediator: https://www.youtube.com/watch?v=ZuhgOu-DGA4&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=7
+* Visitor: https://www.youtube.com/watch?v=x-Gx0Ym1Di0&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=8
 
 # Roteiro:
 
@@ -23,3 +24,4 @@ Baseado nos vídeos:
 * run-observer
 * run-proxy
 * run-mediator
+* run-visitor

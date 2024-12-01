@@ -13,7 +13,8 @@
     "run-iterator": "node iterator_pattern.js",
     "run-observer": "node observer_pattern.js",
     "run-proxy": "node proxy_pattern.js",
-    "run-mediator": "node mediator_pattern.js"
+    "run-mediator": "node mediator_pattern.js",
+    "run-visitor": "node visitor_pattern.js"
   },
   "keywords": [
     "design-patterns"
