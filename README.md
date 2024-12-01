@@ -5,6 +5,7 @@ Baseado nos vídeos:
 * Strategy: https://www.youtube.com/watch?v=SicL4fYCz8w&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=3
 * Iterator: https://www.youtube.com/watch?v=c85EStPZR8M&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=4
 * Observer: https://www.youtube.com/watch?v=45TeJEmcqk8&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=5
+* Proxy: https://www.youtube.com/watch?v=SFTpSFQNPts&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=6
 
 # Roteiro:
 
