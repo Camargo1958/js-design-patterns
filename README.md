@@ -8,6 +8,7 @@ Baseado nos vídeos:
 * Proxy: https://www.youtube.com/watch?v=SFTpSFQNPts&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=6
 * Mediator: https://www.youtube.com/watch?v=ZuhgOu-DGA4&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=7
 * Visitor: https://www.youtube.com/watch?v=x-Gx0Ym1Di0&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=8
+* Builder: https://www.youtube.com/watch?v=McF9ak0kKjA
 
 # Roteiro:
 
@@ -15,8 +16,16 @@ Baseado nos vídeos:
 2 - ESLint install: 
 * npm init @eslint/config
 * Configure: eslint.config.mjs
+3 - typescript install: 
+* npm install -g ts-node typescript '@types/node'
 
-3 - Execute: (NPM SCRIPTS)
+5 - Compile typescript files:
+* tsc *.ts
+
+6 - Run js files:
+* node *.js
+
+7 - Execute: (NPM SCRIPTS)
 * run-factory
 * run-singleton
 * run-strategy
@@ -25,3 +34,5 @@ Baseado nos vídeos:
 * run-proxy
 * run-mediator
 * run-visitor
+* run-builder1
+* run-builder2
