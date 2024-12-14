@@ -9,6 +9,10 @@ Baseado nos vídeos:
 * Mediator: https://www.youtube.com/watch?v=ZuhgOu-DGA4&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=7
 * Visitor: https://www.youtube.com/watch?v=x-Gx0Ym1Di0&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=8
 * Builder: https://www.youtube.com/watch?v=McF9ak0kKjA
+  
+Outras fontes:
+* Abstract Factory: https://refactoring.guru/design-patterns/abstract-factory, https://refactoring.guru/design-patterns/abstract-factory/typescript/example#example-0--index-ts
+* Prototype: https://refactoring.guru/design-patterns/prototype, https://refactoring.guru/design-patterns/prototype/typescript/example
 
 # Roteiro:
 

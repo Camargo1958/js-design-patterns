@@ -17,7 +17,11 @@
     "run-visitor": "node visitor_pattern.js",
     "compile-builder1": "npx tsc builder_pattern1.ts",
     "run-builder1": "node builder_pattern1.js",
-    "run-builder2": "node builder_pattern.js"
+    "run-builder2": "node builder_pattern.js", 
+    "compile-abstract-factory": "npx tsc abstractFactory_pattern.ts",
+    "run-abstract-factory": "node abstractFactory_pattern.js",
+    "compile-prototype": "npx tsc prototype_pattern.ts",
+    "run-prototype": "node prototype_pattern.js"
   },
   "keywords": [
     "design-patterns"
